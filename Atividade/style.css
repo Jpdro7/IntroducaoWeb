@@ -1,0 +1,28 @@
+body{
+     background-color: rgb(12, 85, 148);
+}
+h1{
+     text-align: center;
+     font-size: 37px;
+}
+hr{
+     width: 50%;
+}
+h2{
+     text-align: center;
+     font-size: 29px;
+}
+p{
+     text-align: center;
+     font-size: 18px;
+     margin: 15px;
+}
+a{
+     color: rgb(0, 0, 0);
+}
+span{
+     color: darkgrey;
+}
+div{
+     padding: 5px;
+}
